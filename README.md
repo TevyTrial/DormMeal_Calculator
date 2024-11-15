@@ -25,7 +25,7 @@ The university also offers the following meal plans:
 
 ## Usage
 ### How to Use the Dorm and Meal Plan Calculator
-1. **Launch the Application**: Run the `DormMeal` or `DormMealPlanner` class.
+1. **Launch the Application**: Run the `DormMeal` class.
 2. **Select Dorm**: Choose a dorm from the drop-down menu.
 3. **Select Meal Plan**: Choose a meal plan from the drop-down menu.
 4. **Calculate**: Click the "Calculate Charges" button to see the total charges per semester displayed in a dialog.
