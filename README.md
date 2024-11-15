@@ -5,15 +5,15 @@ This project is a simple GUI-based Dorm and Meal Plan Calculator built using Jav
 The application allows users to select a dormitory and meal plan, calculate the total charges per semester, and exit the application.
 Based on following information:
 A university has the following dormitories:
-●	Allen Hall: $1,500 per semester
-●	Pike Hall: $1,600 per semester
-●	Farthing Hall: $1,200 per semester
-●	University Suite: $1,800 per semester
+● Allen Hall: $1,500 per semester
+● Pike Hall: $1,600 per semester
+● Farthing Hall: $1,200 per semester
+● University Suite: $1,800 per semester
 
 The university also offers the following meal plans:
-●	7 meals per week: $560 per semester
-●	14 meals per week: $1,095 per semester
-●	Unlimited meals: $1,500 per semester
+● 7 meals per week: $560 per semester
+● 14 meals per week: $1,095 per semester
+● Unlimited meals: $1,500 per semester
 
 ## Features
 - **Dorm Selection**: Choose from different dorms with associated charges.
