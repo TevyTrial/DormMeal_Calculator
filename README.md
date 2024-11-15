@@ -3,7 +3,9 @@
 ## Description
 This project is a simple GUI-based Dorm and Meal Plan Calculator built using Java Swing. 
 The application allows users to select a dormitory and meal plan, calculate the total charges per semester, and exit the application.
+
 Based on following information:
+
 A university has the following dormitories:
 - Allen Hall: $1,500 per semester
 - Pike Hall: $1,600 per semester
