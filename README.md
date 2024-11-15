@@ -1,8 +1,8 @@
 # Dorm and Meal Plan Calculator
 
 ## Description
-This project is a simple GUI-based Dorm and Meal Plan Calculator built using Java Swing. 
-The application allows users to select a dormitory and meal plan, calculate the total charges per semester, and exit the application.
+This project is a simple GUI based Dorm and Meal Plan Calculator built using Java Swing. 
+The application allows users to select a dormitory and meal plan in ComboBox, calculate the total charges per semester, and exit the application.
 
 Based on following information:
 
